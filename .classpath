@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/cucumber-reporting-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/cucumber all new jar/cucumber all new jar/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp-p/Desktop/selenium jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
